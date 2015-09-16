@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘八大曼拏羅經
+#+DATE: 2015-08-30 20:31:28.800414
+#+PROPERTY: JUAN 0
