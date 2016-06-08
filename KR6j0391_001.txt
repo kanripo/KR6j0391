@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:28.569487
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 佛說大乘八大曼拏羅經
 #+PROPERTY: CBETA_ID T20n1168A
 #+PROPERTY: ID KR6j0391
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1168A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0391_T_000-0676a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0391_T_001-0676a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1168A[No.1167]¶
-
- 佛說大乘八大曼拏羅經¶
+No. 1168A [No. 1167]¶
+佛說大乘八大曼拏羅經¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
