@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:28.569487
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 佛說大乘八大曼拏羅經
 #+PROPERTY: CBETA_ID T20n1168A
 #+PROPERTY: ID KR6j0391
